@@ -1,5 +1,9 @@
 # vue-movie-search
 
+# Preview Link
+
+vue-movie-search: https://vigorous-dijkstra-abb2c3.netlify.app
+
 ## Project setup
 ```
 npm install
